@@ -52,6 +52,7 @@ The code is organized into the following sections:
 2. Install required libraries (pandas, numpy, matplotlib, seaborn).
 3. Ensure the dataset CSV files are in the same directory as the code.
 4. Run the Python script.
+5. you can find the dataset [here](https://www.kaggle.com/datasets/tohidkhanbagani/covid-19-deaths-and-vaccinations-dataset)
 
 ### Contributions
 
